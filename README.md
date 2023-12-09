@@ -27,4 +27,3 @@ google colaboratory（免費版）
 (6) models：儲存訓練模型
 最後輸出的answer檔，也會儲存在aicup檔案底下。
 
-![image](https://github.com/coolcoolliang/TEAM_3953/assets/153353877/75afdfc3-43d3-4f18-8fc2-8cffde8f6505)
